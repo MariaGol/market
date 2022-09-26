@@ -12,7 +12,7 @@ body {
 }
  
 #header_wrap {
-     background: #FFD700;
+     background: #ffffff;
      margin: auto auto;
      text-align: center;
      width: 100%;
@@ -39,8 +39,8 @@ body {
      height: 280px;
 }
  
-#clear {
-     clear: both;
+#newsletter {
+     font-size: 18px;
 }
  
 #footer {
@@ -64,4 +64,8 @@ a {
 
 li {
     display: inline;
+}
+
+.agreement {
+    font-size: 10px;
 }
